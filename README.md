@@ -97,14 +97,13 @@ ChatGPT 以及类 ChatGPT 网页地址：
 | 字节跳动 | [API Pricing](https://www.volcengine.com/docs/82379/1099322) | Skylark2-pro-character-4k | 4k | 0.0130 | 13.0000 | 0.0110 | 11.0000 | 0.0150 | 15.0000 |  |  |
 | 字节跳动 | [API Pricing](https://www.volcengine.com/docs/82379/1099323) | Skylark2-pro-32k | 32k | 0.0240 | 24.0000 | 0.0120 | 12.0000 | 0.0360 | 36.0000 |  |  |
 | 字节跳动 | [API Pricing](https://www.volcengine.com/docs/82379/1099324) | Skylark2-pro-turbo-8k | 8k | 0.0075 | 7.5000 | 0.0040 | 4.0000 | 0.0110 | 11.0000 |  |  |
-| 商汤日日新 | [API Pricing](https://platform.sensenova.cn/doc?path=/pricingdoc/pricing.md) | SenseChat-5 |  | 0.1000 | 100.8000 |  |  |  |  |  |  |
-| 商汤日日新 | [API Pricing](https://platform.sensenova.cn/doc?path=/pricingdoc/pricing.md) | SenseChat |  | 0.0120 | 12.0960 |  |  |  |  |  |  |
-| 商汤日日新 | [API Pricing](https://platform.sensenova.cn/doc?path=/pricingdoc/pricing.md) | SenseChat-32K | 32K | 0.0360 | 36.2880 |  |  |  |  |  |  |
-| 商汤日日新 | [API Pricing](https://platform.sensenova.cn/doc?path=/pricingdoc/pricing.md) | SenseChat-128K | 128K | 0.0600 | 60.4800 |  |  |  |  |  |  |
-| 商汤日日新 | [API Pricing](https://platform.sensenova.cn/doc?path=/pricingdoc/pricing.md) | SenseChat-Turbo |  | 0.0050 | 5.0400 |  |  |  |  |  |  |
-| 元象大模型 | [API Pricing](https://help.xverse.cn/docs/api-price) | XVERSE-65B-2 |  | 0.0120 | 12.0960 |  |  |  |  |  |  |
-| 元象大模型 | [API Pricing](https://help.xverse.cn/docs/api-price) | XVERSE-13B-2 |  | 0.0050 | 5.0400 |  |  |  |  |  |  |
+| 商汤日日新 | [API Pricing](https://platform.sensenova.cn/doc?path=/pricingdoc/pricing.md) | SenseChat-5 |  | 0.1000 | 100.0000 |  |  |  |  |  |  |
+| 商汤日日新 | [API Pricing](https://platform.sensenova.cn/doc?path=/pricingdoc/pricing.md) | SenseChat |  | 0.0120 | 12.0000 |  |  |  |  |  |  |
+| 商汤日日新 | [API Pricing](https://platform.sensenova.cn/doc?path=/pricingdoc/pricing.md) | SenseChat-32K | 32K | 0.0360 | 36.0000 |  |  |  |  |  |  |
+| 商汤日日新 | [API Pricing](https://platform.sensenova.cn/doc?path=/pricingdoc/pricing.md) | SenseChat-128K | 128K | 0.0600 | 60.0000 |  |  |  |  |  |  |
+| 商汤日日新 | [API Pricing](https://platform.sensenova.cn/doc?path=/pricingdoc/pricing.md) | SenseChat-Turbo |  | 0.0050 | 5.0000 |  |  |  |  |  |  |
+| 元象大模型 | [API Pricing](https://help.xverse.cn/docs/api-price) | XVERSE-65B-2 |  | 0.0120 | 12.0000 |  |  |  |  |  |  |
+| 元象大模型 | [API Pricing](https://help.xverse.cn/docs/api-price) | XVERSE-13B-2 |  | 0.0050 | 5.0000 |  |  |  |  |  |  |
 | 星火大模型 | [API Pricing](https://xinghuo.xfyun.cn/sparkapi) | V3.5 |  |  |  |  |  |  |  |  |  |
 | 星火大模型 | [API Pricing](https://xinghuo.xfyun.cn/sparkapi) | V3.0 |  |  |  |  |  |  |  |  |  |
 | 星火大模型 | [API Pricing](https://xinghuo.xfyun.cn/sparkapi) | V1.5 |
-
