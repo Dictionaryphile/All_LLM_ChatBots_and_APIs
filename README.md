@@ -26,7 +26,7 @@ ChatGPT 以及类 ChatGPT 网页地址：
 * 🤖 	昆仑万维天工大模型	https://tiangong.kunlun.com/
 * 🤖 	面壁露卡	https://luca.cn/chat
 * 🤖 	YAYI雅意	https://yayi.wenge.com/
-* 🤖 	Mistral	https://mistral.ai/
+* 🤖 	Mistral	https://chat.mistral.ai/chat/
 * 🤖 	元象大模型	https://chat.xverse.cn/xchat/index.html
 * 🤖 	深度求索 DeepSeek	https://chat.deepseek.com/
 * 🤖 	MOSS	https://moss.fastnlp.top/moss/#/
