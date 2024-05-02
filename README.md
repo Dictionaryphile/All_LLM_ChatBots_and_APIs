@@ -32,6 +32,8 @@ ChatGPT 以及类 ChatGPT 网页地址：
 * 🤖 	MOSS	https://moss.fastnlp.top/moss/#/
 * 🤖 	孟子	https://www.langboat.com/product/mchat
 * 🤖 	好未来 MathGPT	https://www.mathgpt.com/
+* 🤖 	妙想金融大模型	https://ai.eastmoney.com/chat
+* 🤖 	同花顺HithinkGPT	https://aimiai.com/popular/hithinkChat
 
 
 ## 大模型 API
@@ -40,9 +42,9 @@ ChatGPT 以及类 ChatGPT 网页地址：
 - `【1:1 元/千tokens】 = (【输入 元/千tokens】+输出 元/千tokens) /2`
 - 最后更新时间 `2024-05-01`。
 - 汇率来自[中国人民银行官网人民币汇率中间价对美元](http://www.pbc.gov.cn/rmyh/108976/109428/index.html)。
-- 最大上下文长度：245k。
-- 最便宜：1:1 输入输出 1.5 元/百万 tokens。
-- 最昂贵：1:1 输入输出 639.5670 元/百万 tokens。
+- 最大上下文长度：1000k。
+- 国产最便宜：1:1 输入输出 1.5000 元/百万 tokens。
+- 国产最昂贵：1:1 输入输出 150.0000 元/百万 tokens。
 - 将下面的 Markdown 预览表格复制粘贴到 Excel 中，可供筛选、排序。
 
 
@@ -59,6 +61,8 @@ ChatGPT 以及类 ChatGPT 网页地址：
 | Claude | [API Pricing](https://www.anthropic.com/api) | Claude 2.1 | 200k | 0.1137 | 113.7008 | 0.0569 | 56.8504 | 0.1706 | 170.5512 | 8.0000 | 24.0000 |
 | Claude | [API Pricing](https://www.anthropic.com/api) | Claude 2.0 | 100k | 0.1137 | 113.7008 | 0.0569 | 56.8504 | 0.1706 | 170.5512 | 8.0000 | 24.0000 |
 | Claude | [API Pricing](https://www.anthropic.com/api) | Claude Instant | 100k | 0.0114 | 11.3701 | 0.0057 | 5.6850 | 0.0171 | 17.0551 | 0.8000 | 2.4000 |
+| Google | [API Pricing](https://ai.google.dev/pricing) | Gemini 1.5 Pro | 1000k | 0.0995 | 99.4882 | 0.0497 | 49.7441 | 0.1492 | 149.2323 | 7.0000 | 21.0000 |
+| Google | [API Pricing](https://ai.google.dev/pricing) | Gemini 1.0 Pro |  | 0.0071 | 7.1063 | 0.0036 | 3.5532 | 0.0107 | 10.6595 | 0.5000 | 1.5000 |
 | 智谱 ChatGLM | [API Pricing](https://open.bigmodel.cn/pricing) | GLM-4 | 128K | 0.1000 | 100.0000 | 0.1000 | 100.0000 | 0.1000 | 100.0000 |  |  |
 | 智谱 ChatGLM | [API Pricing](https://open.bigmodel.cn/pricing) | GML-4V | 2K | 0.1000 | 100.0000 | 0.1000 | 100.0000 | 0.1000 | 100.0000 |  |  |
 | 智谱 ChatGLM | [API Pricing](https://open.bigmodel.cn/pricing) | GLM-3-Turbo | 128K | 0.0050 | 5.0000 | 0.0050 | 5.0000 | 0.0050 | 5.0000 |  |  |
@@ -107,3 +111,4 @@ ChatGPT 以及类 ChatGPT 网页地址：
 | 星火大模型 | [API Pricing](https://xinghuo.xfyun.cn/sparkapi) | V3.5 |  |  |  |  |  |  |  |  |  |
 | 星火大模型 | [API Pricing](https://xinghuo.xfyun.cn/sparkapi) | V3.0 |  |  |  |  |  |  |  |  |  |
 | 星火大模型 | [API Pricing](https://xinghuo.xfyun.cn/sparkapi) | V1.5 |
+
