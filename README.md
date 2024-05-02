@@ -34,7 +34,7 @@ ChatGPT 以及类 ChatGPT 网页地址：
 * 🤖 	好未来 MathGPT	https://www.mathgpt.com/
 * 🤖 	妙想金融大模型	https://ai.eastmoney.com/chat
 * 🤖 	同花顺HithinkGPT	https://aimiai.com/popular/hithinkChat
-
+* 🤖 	商汤商量	https://chat.sensetime.com/
 
 ## 大模型 API
 
@@ -108,7 +108,14 @@ ChatGPT 以及类 ChatGPT 网页地址：
 | 商汤日日新 | [API Pricing](https://platform.sensenova.cn/doc?path=/pricingdoc/pricing.md) | SenseChat-Turbo |  | 0.0050 | 5.0000 |  |  |  |  |  |  |
 | 元象大模型 | [API Pricing](https://help.xverse.cn/docs/api-price) | XVERSE-65B-2 |  | 0.0120 | 12.0000 |  |  |  |  |  |  |
 | 元象大模型 | [API Pricing](https://help.xverse.cn/docs/api-price) | XVERSE-13B-2 |  | 0.0050 | 5.0000 |  |  |  |  |  |  |
+| 紫东太初 | [API Pricing](https://docs.wair.ac.cn/maas/jiage.html) | Taichu-2.0 | 32K | 0.0020 | 2.0000 |  |  |  |  |  |  |
+| 紫东太初 | [API Pricing](https://docs.wair.ac.cn/maas/jiage.html) | Taichu-2.0V | 4K | 0.0050 | 5.0000 |  |  |  |  |  |  |
 | 星火大模型 | [API Pricing](https://xinghuo.xfyun.cn/sparkapi) | V3.5 |  |  |  |  |  |  |  |  |  |
 | 星火大模型 | [API Pricing](https://xinghuo.xfyun.cn/sparkapi) | V3.0 |  |  |  |  |  |  |  |  |  |
-| 星火大模型 | [API Pricing](https://xinghuo.xfyun.cn/sparkapi) | V1.5 |
+| 星火大模型 | [API Pricing](https://xinghuo.xfyun.cn/sparkapi) | V1.5 |  |  |  |  |  |  |  |  |  |
+| 360智脑 | [API Pricing](https://ai.360.com/open) |  |  |  |  |  |  |  |  |  |  |
+| Azure OpenAI Service | [API Pricing](https://azure.microsoft.com/en-us/products/ai-services/openai-service) |  |  |  |  |  |  |  |  |  |  |
+| Replicate | [API Pricing](https://replicate.com/pricing) |  |  |  |  |  |  |  |  |  |  |
+| cohere | [API Pricing](https://cohere.com/pricing) |  |  |  |  |  |  |  |  |  |  |
+| groq | [API Pricing](https://wow.groq.com/) |
 
