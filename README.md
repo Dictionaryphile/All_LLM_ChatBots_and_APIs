@@ -35,6 +35,7 @@ ChatGPT 以及类 ChatGPT 网页地址：
 * 🤖 	妙想金融大模型	https://ai.eastmoney.com/chat
 * 🤖 	同花顺HithinkGPT	https://aimiai.com/popular/hithinkChat
 * 🤖 	商汤商量	https://chat.sensetime.com/
+* 🤖 	零一万物万知	https://www.wanzhi.com/
 
 ## 大模型 API
 
