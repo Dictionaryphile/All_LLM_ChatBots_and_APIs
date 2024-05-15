@@ -42,29 +42,29 @@ ChatGPT 以及类 ChatGPT 网页地址：
 ## 说明
 - `【1:1 元/千tokens】 = (【输入 元/千tokens】+输出 元/千tokens) /2`
 - 最后更新时间 `2024-05-14`。
-- 汇率来自[中国人民银行官网人民币汇率中间价对美元](http://www.pbc.gov.cn/rmyh/108976/109428/index.html)，2024-05-13 7.1030。
+- 汇率来自[中国人民银行官网人民币汇率中间价对美元](http://www.pbc.gov.cn/rmyh/108976/109428/index.html)，2024-05-15 7.1049。
 - 最大上下文长度：1000k。
-- 国产最便宜：1:1 输入输出 1.0000 元/百万 tokens。
+- 国产最便宜：1:1 输入输出 0.9000 元/百万 tokens。
 - 国产最昂贵：1:1 输入输出 150.0000 元/百万 tokens。
 - 将下面的 Markdown 预览表格复制粘贴到 Excel 中，可供筛选、排序。
 
 
 | 服务商 | 官方定价页面 | 模型 | 上下文长度 | 1:1 元/千tokens | 1:1 元/百万tokens | 输入 元/千tokens | 输入 元/百万tokens | 输出 元/千tokens | 输出 元/百万tokens | Input 美元/1M tokens | Output 美元/1M tokens |
 |-----|--------|----|-------|---------------|----------------|--------------|---------------|--------------|---------------|--------------------|---------------------|
-| OpenAI | [API Pricing](https://openai.com/api/pricing/) | gpt-4-turbo | 128k | 0.1421 | 142.0600 | 0.0710 | 71.0300 | 0.2131 | 213.0900 | 10.0000 | 30.0000 |
-| OpenAI | [API Pricing](https://openai.com/api/pricing/) | gpt-4 |  | 0.3196 | 319.6350 | 0.2131 | 213.0900 | 0.4262 | 426.1800 | 30.0000 | 60.0000 |
-| OpenAI | [API Pricing](https://openai.com/api/pricing/) | gpt-4-32k | 32k | 0.6393 | 639.2700 | 0.4262 | 426.1800 | 0.8524 | 852.3600 | 60.0000 | 120.0000 |
-| OpenAI | [API Pricing](https://openai.com/api/pricing/) | gpt-4o | 128k | 0.0710 | 71.0300 | 0.0355 | 35.5150 | 0.1065 | 106.5450 | 5.0000 | 15.0000 |
-| OpenAI | [API Pricing](https://openai.com/api/pricing/) | gpt-3.5-turbo-0125 | 16k | 0.0071 | 7.1030 | 0.0036 | 3.5515 | 0.0107 | 10.6545 | 0.5000 | 1.5000 |
-| OpenAI | [API Pricing](https://openai.com/api/pricing/) | gpt-3.5-turbo-instruct | 4k | 0.0124 | 12.4303 | 0.0107 | 10.6545 | 0.0142 | 14.2060 | 1.5000 | 2.0000 |
-| Claude | [API Pricing](https://www.anthropic.com/api) | Claude 3 Opus | 200k | 0.3196 | 319.6350 | 0.1065 | 106.5450 | 0.5327 | 532.7250 | 15.0000 | 75.0000 |
-| Claude | [API Pricing](https://www.anthropic.com/api) | Claude 3 Sonnet | 200k | 0.0639 | 63.9270 | 0.0213 | 21.3090 | 0.1065 | 106.5450 | 3.0000 | 15.0000 |
-| Claude | [API Pricing](https://www.anthropic.com/api) | Claude 3 Haiku | 200k | 0.0053 | 5.3273 | 0.0018 | 1.7758 | 0.0089 | 8.8788 | 0.2500 | 1.2500 |
-| Claude | [API Pricing](https://www.anthropic.com/api) | Claude 2.1 | 200k | 0.1136 | 113.6480 | 0.0568 | 56.8240 | 0.1705 | 170.4720 | 8.0000 | 24.0000 |
-| Claude | [API Pricing](https://www.anthropic.com/api) | Claude 2.0 | 100k | 0.1136 | 113.6480 | 0.0568 | 56.8240 | 0.1705 | 170.4720 | 8.0000 | 24.0000 |
-| Claude | [API Pricing](https://www.anthropic.com/api) | Claude Instant | 100k | 0.0114 | 11.3648 | 0.0057 | 5.6824 | 0.0170 | 17.0472 | 0.8000 | 2.4000 |
-| Google | [API Pricing](https://ai.google.dev/pricing) | Gemini 1.5 Pro | 1000k | 0.0994 | 99.4420 | 0.0497 | 49.7210 | 0.1492 | 149.1630 | 7.0000 | 21.0000 |
-| Google | [API Pricing](https://ai.google.dev/pricing) | Gemini 1.0 Pro |  | 0.0071 | 7.1030 | 0.0036 | 3.5515 | 0.0107 | 10.6545 | 0.5000 | 1.5000 |
+| OpenAI | [API Pricing](https://openai.com/api/pricing/) | gpt-4-turbo | 128k | 0.1421 | 142.0980 | 0.0710 | 71.0490 | 0.2131 | 213.1470 | 10.0000 | 30.0000 |
+| OpenAI | [API Pricing](https://openai.com/api/pricing/) | gpt-4 |  | 0.3197 | 319.7205 | 0.2131 | 213.1470 | 0.4263 | 426.2940 | 30.0000 | 60.0000 |
+| OpenAI | [API Pricing](https://openai.com/api/pricing/) | gpt-4-32k | 32k | 0.6394 | 639.4410 | 0.4263 | 426.2940 | 0.8526 | 852.5880 | 60.0000 | 120.0000 |
+| OpenAI | [API Pricing](https://openai.com/api/pricing/) | gpt-4o | 128k | 0.0710 | 71.0490 | 0.0355 | 35.5245 | 0.1066 | 106.5735 | 5.0000 | 15.0000 |
+| OpenAI | [API Pricing](https://openai.com/api/pricing/) | gpt-3.5-turbo-0125 | 16k | 0.0071 | 7.1049 | 0.0036 | 3.5525 | 0.0107 | 10.6574 | 0.5000 | 1.5000 |
+| OpenAI | [API Pricing](https://openai.com/api/pricing/) | gpt-3.5-turbo-instruct | 4k | 0.0124 | 12.4336 | 0.0107 | 10.6574 | 0.0142 | 14.2098 | 1.5000 | 2.0000 |
+| Claude | [API Pricing](https://www.anthropic.com/api) | Claude 3 Opus | 200k | 0.3197 | 319.7205 | 0.1066 | 106.5735 | 0.5329 | 532.8675 | 15.0000 | 75.0000 |
+| Claude | [API Pricing](https://www.anthropic.com/api) | Claude 3 Sonnet | 200k | 0.0639 | 63.9441 | 0.0213 | 21.3147 | 0.1066 | 106.5735 | 3.0000 | 15.0000 |
+| Claude | [API Pricing](https://www.anthropic.com/api) | Claude 3 Haiku | 200k | 0.0053 | 5.3287 | 0.0018 | 1.7762 | 0.0089 | 8.8811 | 0.2500 | 1.2500 |
+| Claude | [API Pricing](https://www.anthropic.com/api) | Claude 2.1 | 200k | 0.1137 | 113.6784 | 0.0568 | 56.8392 | 0.1705 | 170.5176 | 8.0000 | 24.0000 |
+| Claude | [API Pricing](https://www.anthropic.com/api) | Claude 2.0 | 100k | 0.1137 | 113.6784 | 0.0568 | 56.8392 | 0.1705 | 170.5176 | 8.0000 | 24.0000 |
+| Claude | [API Pricing](https://www.anthropic.com/api) | Claude Instant | 100k | 0.0114 | 11.3678 | 0.0057 | 5.6839 | 0.0171 | 17.0518 | 0.8000 | 2.4000 |
+| Google | [API Pricing](https://ai.google.dev/pricing) | Gemini 1.5 Pro | 1000k | 0.0995 | 99.4686 | 0.0497 | 49.7343 | 0.1492 | 149.2029 | 7.0000 | 21.0000 |
+| Google | [API Pricing](https://ai.google.dev/pricing) | Gemini 1.0 Pro |  | 0.0071 | 7.1049 | 0.0036 | 3.5525 | 0.0107 | 10.6574 | 0.5000 | 1.5000 |
 | 智谱 ChatGLM | [API Pricing](https://open.bigmodel.cn/pricing) | GLM-4 | 128K | 0.1000 | 100.0000 | 0.1000 | 100.0000 | 0.1000 | 100.0000 |  |  |
 | 智谱 ChatGLM | [API Pricing](https://open.bigmodel.cn/pricing) | GML-4V | 2K | 0.1000 | 100.0000 | 0.1000 | 100.0000 | 0.1000 | 100.0000 |  |  |
 | 智谱 ChatGLM | [API Pricing](https://open.bigmodel.cn/pricing) | GLM-3-Turbo | 128K | 0.0010 | 1.0000 | 0.0010 | 1.0000 | 0.0010 | 1.0000 |  |  |
@@ -92,17 +92,23 @@ ChatGPT 以及类 ChatGPT 网页地址：
 | 阶跃星辰 | [API Pricing](https://platform.stepfun.com/docs/Chat/chat-completion-create) | step-1v-32k | 32k | 0.0240 | 24.0000 | 0.0240 | 24.0000 | 0.0240 | 24.0000 |  |  |
 | 零一万物 | [API Pricing](https://platform.lingyiwanwu.com/) | yi-34b-chat-0205 | 4K | 0.0025 | 2.5000 | 0.0025 | 2.5000 | 0.0025 | 2.5000 |  |  |
 | 零一万物 | [API Pricing](https://platform.lingyiwanwu.com/) | yi-34b-chat-200k | 200K | 0.0120 | 12.0000 | 0.0120 | 12.0000 | 0.0120 | 12.0000 |  |  |
-| MISTRAL | [API Pricing](https://mistral.ai/technology/#pricing) | open-mistral-7b |  | 0.0018 | 1.7758 | 0.0018 | 1.7758 | 0.0018 | 1.7758 | 0.2500 | 0.2500 |
-| MISTRAL | [API Pricing](https://mistral.ai/technology/#pricing) | open-mixtral-8x7b |  | 0.0050 | 4.9721 | 0.0050 | 4.9721 | 0.0050 | 4.9721 | 0.7000 | 0.7000 |
-| MISTRAL | [API Pricing](https://mistral.ai/technology/#pricing) | open-mixtral-8x22b |  | 0.0284 | 28.4120 | 0.0142 | 14.2060 | 0.0426 | 42.6180 | 2.0000 | 6.0000 |
-| MISTRAL | [API Pricing](https://mistral.ai/technology/#pricing) | mistral-small |  | 0.0284 | 28.4120 | 0.0142 | 14.2060 | 0.0426 | 42.6180 | 2.0000 | 6.0000 |
-| MISTRAL | [API Pricing](https://mistral.ai/technology/#pricing) | mistral-medium |  | 0.0384 | 38.3562 | 0.0192 | 19.1781 | 0.0575 | 57.5343 | 2.7000 | 8.1000 |
-| MISTRAL | [API Pricing](https://mistral.ai/technology/#pricing) | mistral-large |  | 0.1136 | 113.6480 | 0.0568 | 56.8240 | 0.1705 | 170.4720 | 8.0000 | 24.0000 |
+| MISTRAL | [API Pricing](https://mistral.ai/technology/#pricing) | open-mistral-7b |  | 0.0018 | 1.7762 | 0.0018 | 1.7762 | 0.0018 | 1.7762 | 0.2500 | 0.2500 |
+| MISTRAL | [API Pricing](https://mistral.ai/technology/#pricing) | open-mixtral-8x7b |  | 0.0050 | 4.9734 | 0.0050 | 4.9734 | 0.0050 | 4.9734 | 0.7000 | 0.7000 |
+| MISTRAL | [API Pricing](https://mistral.ai/technology/#pricing) | open-mixtral-8x22b |  | 0.0284 | 28.4196 | 0.0142 | 14.2098 | 0.0426 | 42.6294 | 2.0000 | 6.0000 |
+| MISTRAL | [API Pricing](https://mistral.ai/technology/#pricing) | mistral-small |  | 0.0284 | 28.4196 | 0.0142 | 14.2098 | 0.0426 | 42.6294 | 2.0000 | 6.0000 |
+| MISTRAL | [API Pricing](https://mistral.ai/technology/#pricing) | mistral-medium |  | 0.0384 | 38.3665 | 0.0192 | 19.1832 | 0.0575 | 57.5497 | 2.7000 | 8.1000 |
+| MISTRAL | [API Pricing](https://mistral.ai/technology/#pricing) | mistral-large |  | 0.1137 | 113.6784 | 0.0568 | 56.8392 | 0.1705 | 170.5176 | 8.0000 | 24.0000 |
+| 字节跳动 | [API Pricing](https://www.volcengine.com/docs/82379/1099320) | Doubao-lite-128k | 128k | 0.0009 | 0.9000 | 0.0008 | 0.8000 | 0.0010 | 1.0000 |  |  |
+| 字节跳动 | [API Pricing](https://www.volcengine.com/docs/82379/1099320) | Doubao-lite-32k | 32k | 0.0005 | 0.4500 | 0.0003 | 0.3000 | 0.0006 | 0.6000 |  |  |
+| 字节跳动 | [API Pricing](https://www.volcengine.com/docs/82379/1099320) | Doubao-lite-4k | 4k | 0.0005 | 0.4500 | 0.0003 | 0.3000 | 0.0006 | 0.6000 |  |  |
+| 字节跳动 | [API Pricing](https://www.volcengine.com/docs/82379/1099320) | Doubao-pro-128k | 128k | 0.0070 | 7.0000 | 0.0050 | 5.0000 | 0.0090 | 9.0000 |  |  |
+| 字节跳动 | [API Pricing](https://www.volcengine.com/docs/82379/1099320) | Doubao-pro-32k | 32k | 0.0014 | 1.4000 | 0.0008 | 0.8000 | 0.0020 | 2.0000 |  |  |
+| 字节跳动 | [API Pricing](https://www.volcengine.com/docs/82379/1099320) | Doubao-pro-4k | 4k | 0.0014 | 1.4000 | 0.0008 | 0.8000 | 0.0020 | 2.0000 |  |  |
 | 字节跳动 | [API Pricing](https://www.volcengine.com/docs/82379/1099320) | Skylark2-lite-8k | 8k | 0.0040 | 4.0000 | 0.0040 | 4.0000 | 0.0040 | 4.0000 |  |  |
-| 字节跳动 | [API Pricing](https://www.volcengine.com/docs/82379/1099321) | Skylark2-pro-4k | 4k | 0.0130 | 13.0000 | 0.0110 | 11.0000 | 0.0150 | 15.0000 |  |  |
-| 字节跳动 | [API Pricing](https://www.volcengine.com/docs/82379/1099322) | Skylark2-pro-character-4k | 4k | 0.0130 | 13.0000 | 0.0110 | 11.0000 | 0.0150 | 15.0000 |  |  |
-| 字节跳动 | [API Pricing](https://www.volcengine.com/docs/82379/1099323) | Skylark2-pro-32k | 32k | 0.0240 | 24.0000 | 0.0120 | 12.0000 | 0.0360 | 36.0000 |  |  |
-| 字节跳动 | [API Pricing](https://www.volcengine.com/docs/82379/1099324) | Skylark2-pro-turbo-8k | 8k | 0.0075 | 7.5000 | 0.0040 | 4.0000 | 0.0110 | 11.0000 |  |  |
+| 字节跳动 | [API Pricing](https://www.volcengine.com/docs/82379/1099320) | Skylark2-pro-4k | 4k | 0.0130 | 13.0000 | 0.0110 | 11.0000 | 0.0150 | 15.0000 |  |  |
+| 字节跳动 | [API Pricing](https://www.volcengine.com/docs/82379/1099320) | Skylark2-pro-character-4k | 4k | 0.0130 | 13.0000 | 0.0110 | 11.0000 | 0.0150 | 15.0000 |  |  |
+| 字节跳动 | [API Pricing](https://www.volcengine.com/docs/82379/1099320) | Skylark2-pro-32k | 32k | 0.0240 | 24.0000 | 0.0120 | 12.0000 | 0.0360 | 36.0000 |  |  |
+| 字节跳动 | [API Pricing](https://www.volcengine.com/docs/82379/1099320) | Skylark2-pro-turbo-8k | 8k | 0.0075 | 7.5000 | 0.0040 | 4.0000 | 0.0110 | 11.0000 |  |  |
 | 商汤日日新 | [API Pricing](https://platform.sensenova.cn/doc?path=/pricingdoc/pricing.md) | SenseChat-5 |  | 0.1000 | 100.0000 |  |  |  |  |  |  |
 | 商汤日日新 | [API Pricing](https://platform.sensenova.cn/doc?path=/pricingdoc/pricing.md) | SenseChat |  | 0.0120 | 12.0000 |  |  |  |  |  |  |
 | 商汤日日新 | [API Pricing](https://platform.sensenova.cn/doc?path=/pricingdoc/pricing.md) | SenseChat-32K | 32K | 0.0360 | 36.0000 |  |  |  |  |  |  |
