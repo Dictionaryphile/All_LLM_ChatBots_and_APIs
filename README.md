@@ -6,9 +6,9 @@
 ## 大模型 ChatBot
 ChatGPT 以及类 ChatGPT 网页地址：
 
-* 🤖 	ChatGPT	https://chat.openai.com/
+* 🤖 	ChatGPT	https://chatgpt.com/
 * 🤖 	Claude	https://claude.ai/
-* 🤖 	阿里通义千问	https://qianwen.aliyun.com/
+* 🤖 	阿里通义	https://tongyi.aliyun.com/qianwen/
 * 🤖 	月之暗面 Kimi 智能助手	https://kimi.moonshot.cn/
 * 🤖 	百川智能	https://chat.baichuan-ai.com/
 * 🤖 	Google Gemini	https://gemini.google.com/
@@ -41,8 +41,8 @@ ChatGPT 以及类 ChatGPT 网页地址：
 
 ## 说明
 - `【1:1 元/千tokens】 = (【输入 元/千tokens】+输出 元/千tokens) /2`
-- 最后更新时间 `2024-05-14`。
-- 汇率来自[中国人民银行官网人民币汇率中间价对美元](http://www.pbc.gov.cn/rmyh/108976/109428/index.html)，2024-05-15 7.1049。
+- 最后更新时间 `2024-05-19`。
+- 汇率来自[中国人民银行官网人民币汇率中间价对美元](http://www.pbc.gov.cn/rmyh/108976/109428/index.html)，2024-05-17 7.1045。
 - 最大上下文长度：1000k。
 - 国产最便宜：1:1 输入输出 0.4500 元/百万 tokens。
 - 国产最昂贵：1:1 输入输出 150.0000 元/百万 tokens。
@@ -51,20 +51,20 @@ ChatGPT 以及类 ChatGPT 网页地址：
 
 | 服务商 | 官方定价页面 | 模型 | 上下文长度 | 1:1 元/千tokens | 1:1 元/百万tokens | 输入 元/千tokens | 输入 元/百万tokens | 输出 元/千tokens | 输出 元/百万tokens | Input 美元/1M tokens | Output 美元/1M tokens |
 |-----|--------|----|-------|---------------|----------------|--------------|---------------|--------------|---------------|--------------------|---------------------|
-| OpenAI | [API Pricing](https://openai.com/api/pricing/) | gpt-4-turbo | 128k | 0.1421 | 142.0980 | 0.0710 | 71.0490 | 0.2131 | 213.1470 | 10.0000 | 30.0000 |
-| OpenAI | [API Pricing](https://openai.com/api/pricing/) | gpt-4 |  | 0.3197 | 319.7205 | 0.2131 | 213.1470 | 0.4263 | 426.2940 | 30.0000 | 60.0000 |
-| OpenAI | [API Pricing](https://openai.com/api/pricing/) | gpt-4-32k | 32k | 0.6394 | 639.4410 | 0.4263 | 426.2940 | 0.8526 | 852.5880 | 60.0000 | 120.0000 |
-| OpenAI | [API Pricing](https://openai.com/api/pricing/) | gpt-4o | 128k | 0.0710 | 71.0490 | 0.0355 | 35.5245 | 0.1066 | 106.5735 | 5.0000 | 15.0000 |
-| OpenAI | [API Pricing](https://openai.com/api/pricing/) | gpt-3.5-turbo-0125 | 16k | 0.0071 | 7.1049 | 0.0036 | 3.5525 | 0.0107 | 10.6574 | 0.5000 | 1.5000 |
-| OpenAI | [API Pricing](https://openai.com/api/pricing/) | gpt-3.5-turbo-instruct | 4k | 0.0124 | 12.4336 | 0.0107 | 10.6574 | 0.0142 | 14.2098 | 1.5000 | 2.0000 |
-| Claude | [API Pricing](https://www.anthropic.com/api) | Claude 3 Opus | 200k | 0.3197 | 319.7205 | 0.1066 | 106.5735 | 0.5329 | 532.8675 | 15.0000 | 75.0000 |
-| Claude | [API Pricing](https://www.anthropic.com/api) | Claude 3 Sonnet | 200k | 0.0639 | 63.9441 | 0.0213 | 21.3147 | 0.1066 | 106.5735 | 3.0000 | 15.0000 |
-| Claude | [API Pricing](https://www.anthropic.com/api) | Claude 3 Haiku | 200k | 0.0053 | 5.3287 | 0.0018 | 1.7762 | 0.0089 | 8.8811 | 0.2500 | 1.2500 |
-| Claude | [API Pricing](https://www.anthropic.com/api) | Claude 2.1 | 200k | 0.1137 | 113.6784 | 0.0568 | 56.8392 | 0.1705 | 170.5176 | 8.0000 | 24.0000 |
-| Claude | [API Pricing](https://www.anthropic.com/api) | Claude 2.0 | 100k | 0.1137 | 113.6784 | 0.0568 | 56.8392 | 0.1705 | 170.5176 | 8.0000 | 24.0000 |
-| Claude | [API Pricing](https://www.anthropic.com/api) | Claude Instant | 100k | 0.0114 | 11.3678 | 0.0057 | 5.6839 | 0.0171 | 17.0518 | 0.8000 | 2.4000 |
-| Google | [API Pricing](https://ai.google.dev/pricing) | Gemini 1.5 Pro | 1000k | 0.0995 | 99.4686 | 0.0497 | 49.7343 | 0.1492 | 149.2029 | 7.0000 | 21.0000 |
-| Google | [API Pricing](https://ai.google.dev/pricing) | Gemini 1.0 Pro |  | 0.0071 | 7.1049 | 0.0036 | 3.5525 | 0.0107 | 10.6574 | 0.5000 | 1.5000 |
+| OpenAI | [API Pricing](https://openai.com/api/pricing/) | gpt-4-turbo | 128k | 0.1421 | 142.0900 | 0.0710 | 71.0450 | 0.2131 | 213.1350 | 10.0000 | 30.0000 |
+| OpenAI | [API Pricing](https://openai.com/api/pricing/) | gpt-4 |  | 0.3197 | 319.7025 | 0.2131 | 213.1350 | 0.4263 | 426.2700 | 30.0000 | 60.0000 |
+| OpenAI | [API Pricing](https://openai.com/api/pricing/) | gpt-4-32k | 32k | 0.6394 | 639.4050 | 0.4263 | 426.2700 | 0.8525 | 852.5400 | 60.0000 | 120.0000 |
+| OpenAI | [API Pricing](https://openai.com/api/pricing/) | gpt-4o | 128k | 0.0710 | 71.0450 | 0.0355 | 35.5225 | 0.1066 | 106.5675 | 5.0000 | 15.0000 |
+| OpenAI | [API Pricing](https://openai.com/api/pricing/) | gpt-3.5-turbo-0125 | 16k | 0.0071 | 7.1045 | 0.0036 | 3.5523 | 0.0107 | 10.6568 | 0.5000 | 1.5000 |
+| OpenAI | [API Pricing](https://openai.com/api/pricing/) | gpt-3.5-turbo-instruct | 4k | 0.0124 | 12.4329 | 0.0107 | 10.6568 | 0.0142 | 14.2090 | 1.5000 | 2.0000 |
+| Claude | [API Pricing](https://www.anthropic.com/api) | Claude 3 Opus | 200k | 0.3197 | 319.7025 | 0.1066 | 106.5675 | 0.5328 | 532.8375 | 15.0000 | 75.0000 |
+| Claude | [API Pricing](https://www.anthropic.com/api) | Claude 3 Sonnet | 200k | 0.0639 | 63.9405 | 0.0213 | 21.3135 | 0.1066 | 106.5675 | 3.0000 | 15.0000 |
+| Claude | [API Pricing](https://www.anthropic.com/api) | Claude 3 Haiku | 200k | 0.0053 | 5.3284 | 0.0018 | 1.7761 | 0.0089 | 8.8806 | 0.2500 | 1.2500 |
+| Claude | [API Pricing](https://www.anthropic.com/api) | Claude 2.1 | 200k | 0.1137 | 113.6720 | 0.0568 | 56.8360 | 0.1705 | 170.5080 | 8.0000 | 24.0000 |
+| Claude | [API Pricing](https://www.anthropic.com/api) | Claude 2.0 | 100k | 0.1137 | 113.6720 | 0.0568 | 56.8360 | 0.1705 | 170.5080 | 8.0000 | 24.0000 |
+| Claude | [API Pricing](https://www.anthropic.com/api) | Claude Instant | 100k | 0.0114 | 11.3672 | 0.0057 | 5.6836 | 0.0171 | 17.0508 | 0.8000 | 2.4000 |
+| Google | [API Pricing](https://ai.google.dev/pricing) | Gemini 1.5 Pro | 1000k | 0.0995 | 99.4630 | 0.0497 | 49.7315 | 0.1492 | 149.1945 | 7.0000 | 21.0000 |
+| Google | [API Pricing](https://ai.google.dev/pricing) | Gemini 1.0 Pro |  | 0.0071 | 7.1045 | 0.0036 | 3.5523 | 0.0107 | 10.6568 | 0.5000 | 1.5000 |
 | 智谱 ChatGLM | [API Pricing](https://open.bigmodel.cn/pricing) | GLM-4 | 128K | 0.1000 | 100.0000 | 0.1000 | 100.0000 | 0.1000 | 100.0000 |  |  |
 | 智谱 ChatGLM | [API Pricing](https://open.bigmodel.cn/pricing) | GML-4V | 2K | 0.1000 | 100.0000 | 0.1000 | 100.0000 | 0.1000 | 100.0000 |  |  |
 | 智谱 ChatGLM | [API Pricing](https://open.bigmodel.cn/pricing) | GLM-3-Turbo | 128K | 0.0010 | 1.0000 | 0.0010 | 1.0000 | 0.0010 | 1.0000 |  |  |
@@ -87,17 +87,18 @@ ChatGPT 以及类 ChatGPT 网页地址：
 | 腾讯混元 | [API Pricing](https://cloud.tencent.com/document/product/1729/97731) | hunyuan-pro |  | 0.1000 | 100.0000 | 0.1000 | 100.0000 | 0.1000 | 100.0000 |  |  |
 | 腾讯混元 | [API Pricing](https://cloud.tencent.com/document/product/1729/97731) | hunyuan-standard |  | 0.0100 | 10.0000 | 0.0100 | 10.0000 | 0.0100 | 10.0000 |  |  |
 | 腾讯混元 | [API Pricing](https://cloud.tencent.com/document/product/1729/97731) | hunyuan-lite |  | 0.0080 | 8.0000 | 0.0080 | 8.0000 | 0.0080 | 8.0000 |  |  |
+| 腾讯混元 | [API Pricing](https://cloud.tencent.com/document/product/1729/97731) | hunyuan-standard-256k | 256k | 0.1200 | 120.0000 | 0.1200 | 120.0000 | 0.1200 | 120.0000 |  |  |
 | 阶跃星辰 | [API Pricing](https://platform.stepfun.com/docs/Chat/chat-completion-create) | step-1-200k | 200k | 0.1500 | 150.0000 | 0.1500 | 150.0000 | 0.1500 | 150.0000 |  |  |
 | 阶跃星辰 | [API Pricing](https://platform.stepfun.com/docs/Chat/chat-completion-create) | step-1-32k | 32k | 0.0240 | 24.0000 | 0.0240 | 24.0000 | 0.0240 | 24.0000 |  |  |
 | 阶跃星辰 | [API Pricing](https://platform.stepfun.com/docs/Chat/chat-completion-create) | step-1v-32k | 32k | 0.0240 | 24.0000 | 0.0240 | 24.0000 | 0.0240 | 24.0000 |  |  |
 | 零一万物 | [API Pricing](https://platform.lingyiwanwu.com/) | yi-34b-chat-0205 | 4K | 0.0025 | 2.5000 | 0.0025 | 2.5000 | 0.0025 | 2.5000 |  |  |
 | 零一万物 | [API Pricing](https://platform.lingyiwanwu.com/) | yi-34b-chat-200k | 200K | 0.0120 | 12.0000 | 0.0120 | 12.0000 | 0.0120 | 12.0000 |  |  |
-| MISTRAL | [API Pricing](https://mistral.ai/technology/#pricing) | open-mistral-7b |  | 0.0018 | 1.7762 | 0.0018 | 1.7762 | 0.0018 | 1.7762 | 0.2500 | 0.2500 |
-| MISTRAL | [API Pricing](https://mistral.ai/technology/#pricing) | open-mixtral-8x7b |  | 0.0050 | 4.9734 | 0.0050 | 4.9734 | 0.0050 | 4.9734 | 0.7000 | 0.7000 |
-| MISTRAL | [API Pricing](https://mistral.ai/technology/#pricing) | open-mixtral-8x22b |  | 0.0284 | 28.4196 | 0.0142 | 14.2098 | 0.0426 | 42.6294 | 2.0000 | 6.0000 |
-| MISTRAL | [API Pricing](https://mistral.ai/technology/#pricing) | mistral-small |  | 0.0284 | 28.4196 | 0.0142 | 14.2098 | 0.0426 | 42.6294 | 2.0000 | 6.0000 |
-| MISTRAL | [API Pricing](https://mistral.ai/technology/#pricing) | mistral-medium |  | 0.0384 | 38.3665 | 0.0192 | 19.1832 | 0.0575 | 57.5497 | 2.7000 | 8.1000 |
-| MISTRAL | [API Pricing](https://mistral.ai/technology/#pricing) | mistral-large |  | 0.1137 | 113.6784 | 0.0568 | 56.8392 | 0.1705 | 170.5176 | 8.0000 | 24.0000 |
+| MISTRAL | [API Pricing](https://mistral.ai/technology/#pricing) | open-mistral-7b |  | 0.0018 | 1.7761 | 0.0018 | 1.7761 | 0.0018 | 1.7761 | 0.2500 | 0.2500 |
+| MISTRAL | [API Pricing](https://mistral.ai/technology/#pricing) | open-mixtral-8x7b |  | 0.0050 | 4.9732 | 0.0050 | 4.9732 | 0.0050 | 4.9732 | 0.7000 | 0.7000 |
+| MISTRAL | [API Pricing](https://mistral.ai/technology/#pricing) | open-mixtral-8x22b |  | 0.0284 | 28.4180 | 0.0142 | 14.2090 | 0.0426 | 42.6270 | 2.0000 | 6.0000 |
+| MISTRAL | [API Pricing](https://mistral.ai/technology/#pricing) | mistral-small |  | 0.0284 | 28.4180 | 0.0142 | 14.2090 | 0.0426 | 42.6270 | 2.0000 | 6.0000 |
+| MISTRAL | [API Pricing](https://mistral.ai/technology/#pricing) | mistral-medium |  | 0.0384 | 38.3643 | 0.0192 | 19.1822 | 0.0575 | 57.5465 | 2.7000 | 8.1000 |
+| MISTRAL | [API Pricing](https://mistral.ai/technology/#pricing) | mistral-large |  | 0.1137 | 113.6720 | 0.0568 | 56.8360 | 0.1705 | 170.5080 | 8.0000 | 24.0000 |
 | 字节跳动 | [API Pricing](https://www.volcengine.com/docs/82379/1099320) | Doubao-lite-128k | 128k | 0.0009 | 0.9000 | 0.0008 | 0.8000 | 0.0010 | 1.0000 |  |  |
 | 字节跳动 | [API Pricing](https://www.volcengine.com/docs/82379/1099320) | Doubao-lite-32k | 32k | 0.0005 | 0.4500 | 0.0003 | 0.3000 | 0.0006 | 0.6000 |  |  |
 | 字节跳动 | [API Pricing](https://www.volcengine.com/docs/82379/1099320) | Doubao-lite-4k | 4k | 0.0005 | 0.4500 | 0.0003 | 0.3000 | 0.0006 | 0.6000 |  |  |
