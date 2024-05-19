@@ -14,7 +14,7 @@ ChatGPT 以及类 ChatGPT 网页地址：
 * 🤖 	Google Gemini	https://gemini.google.com/
 * 🤖 	智谱清言	https://chatglm.cn/
 * 🤖 	360智脑	https://chat.360.cn/
-* 🤖 	抖音豆包（云雀大模型）	https://www.doubao.com/
+* 🤖 	豆包	https://www.doubao.com/
 * 🤖 	阶跃星辰跃问	https://stepchat.cn/chats/
 * 🤖 	稀宇科技海螺AI	https://hailuoai.com/
 * 🤖 	Meta AI	https://www.meta.ai/
@@ -36,6 +36,7 @@ ChatGPT 以及类 ChatGPT 网页地址：
 * 🤖 	同花顺HithinkGPT	https://aimiai.com/popular/hithinkChat
 * 🤖 	商汤商量	https://chat.sensetime.com/
 * 🤖 	零一万物万知	https://www.wanzhi.com/
+* 🤖 	秘塔AI搜索	https://metaso.cn/
 
 ## 大模型 API
 
