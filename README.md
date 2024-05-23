@@ -45,7 +45,7 @@ ChatGPT 以及类 ChatGPT 网页地址：
 - 最后更新时间 `2024-05-23`。
 - 汇率来自[中国人民银行官网人民币汇率中间价对美元](http://www.pbc.gov.cn/rmyh/108976/109428/index.html)，2024-05-22 7.1077。
 - 最大上下文长度：10000k。
-- 国产最便宜：百度、腾讯均有免费 API。
+- 国产最便宜：百度、腾讯、讯飞均有免费 API。
 - 国产最昂贵：1:1 输入输出 150.0000 元/百万 tokens。
 - 将下面的 Markdown 预览表格复制粘贴到 Excel 中，可供筛选、排序。
 
@@ -128,11 +128,12 @@ ChatGPT 以及类 ChatGPT 网页地址：
 | 紫东太初 | [API Pricing](https://docs.wair.ac.cn/maas/jiage.html) | Taichu-2.0 | 32K | 0.00200 | 2.0000 |  |  |  |  |  |  |
 | 紫东太初 | [API Pricing](https://docs.wair.ac.cn/maas/jiage.html) | Taichu-2.0V | 4K | 0.00500 | 5.0000 |  |  |  |  |  |  |
 | 天工 | [API Pricing](https://model-platform.tiangong.cn/pricing) | SkyChat-MegaVerse |  | 0.01000 | 10.0000 |  |  |  |  |  |  |
-| 星火大模型 | [API Pricing](https://xinghuo.xfyun.cn/sparkapi) | V3.5 |  |  |  |  |  |  |  |  |  |
-| 星火大模型 | [API Pricing](https://xinghuo.xfyun.cn/sparkapi) | V3.0 |  |  |  |  |  |  |  |  |  |
-| 星火大模型 | [API Pricing](https://xinghuo.xfyun.cn/sparkapi) | V1.5 |  |  |  |  |  |  |  |  |  |
+| 星火大模型 | [API Pricing](https://xinghuo.xfyun.cn/sparkapi) | Spark Lite |  | 0.00000 | 0.0000 | 0.0000 | 0.0000 | 0.0000 | 0.0000 |  |  |
+| 星火大模型 | [API Pricing](https://xinghuo.xfyun.cn/sparkapi) | Spark Pro |  |  |  |  |  |  |  |  |  |
+| 星火大模型 | [API Pricing](https://xinghuo.xfyun.cn/sparkapi) | Spark3.5 Max |  |  |  |  |  |  |  |  |  |
 | 360智脑 | [API Pricing](https://ai.360.com/open) |  |  |  |  |  |  |  |  |  |  |
 | Azure OpenAI Service | [API Pricing](https://azure.microsoft.com/en-us/products/ai-services/openai-service) |  |  |  |  |  |  |  |  |  |  |
 | Replicate | [API Pricing](https://replicate.com/pricing) |  |  |  |  |  |  |  |  |  |  |
 | cohere | [API Pricing](https://cohere.com/pricing) |  |  |  |  |  |  |  |  |  |  |
 | groq | [API Pricing](https://wow.groq.com/) |
+
