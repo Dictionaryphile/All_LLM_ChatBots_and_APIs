@@ -96,9 +96,9 @@ ChatGPT 以及类 ChatGPT 网页地址：
 | 腾讯混元 | [API Pricing](https://cloud.tencent.com/document/product/1729/97731) | hunyuan-standard |  | 0.00475 | 4.7500 | 0.0045 | 4.5000 | 0.0050 | 5.0000 |  |  |
 | 腾讯混元 | [API Pricing](https://cloud.tencent.com/document/product/1729/97731) | hunyuan-lite |  | 0.00000 | 0.0000 | 0.0000 | 0.0000 | 0.0000 | 0.0000 |  |  |
 | 腾讯混元 | [API Pricing](https://cloud.tencent.com/document/product/1729/97731) | hunyuan-standard-256k | 256k | 0.03750 | 37.5000 | 0.0150 | 15.0000 | 0.0600 | 60.0000 |  |  |
-| 阶跃星辰 | [API Pricing](https://platform.stepfun.com/docs/Chat/chat-completion-create) | step-1-200k | 200k | 0.15000 | 150.0000 | 0.1500 | 150.0000 | 0.1500 | 150.0000 |  |  |
-| 阶跃星辰 | [API Pricing](https://platform.stepfun.com/docs/Chat/chat-completion-create) | step-1-32k | 32k | 0.02400 | 24.0000 | 0.0240 | 24.0000 | 0.0240 | 24.0000 |  |  |
-| 阶跃星辰 | [API Pricing](https://platform.stepfun.com/docs/Chat/chat-completion-create) | step-1v-32k | 32k | 0.02400 | 24.0000 | 0.0240 | 24.0000 | 0.0240 | 24.0000 |  |  |
+| 阶跃星辰 | [API Pricing](https://platform.stepfun.com/docs/overview/concept) | step-1-200k | 200k | 0.15000 | 150.0000 | 0.1500 | 150.0000 | 0.1500 | 150.0000 |  |  |
+| 阶跃星辰 | [API Pricing](https://platform.stepfun.com/docs/overview/concept) | step-1-32k | 32k | 0.02400 | 24.0000 | 0.0240 | 24.0000 | 0.0240 | 24.0000 |  |  |
+| 阶跃星辰 | [API Pricing](https://platform.stepfun.com/docs/overview/concept) | step-1v-32k | 32k | 0.02400 | 24.0000 | 0.0240 | 24.0000 | 0.0240 | 24.0000 |  |  |
 | 零一万物 | [API Pricing](https://platform.lingyiwanwu.com/) | yi-34b-chat-0205 | 4K | 0.00250 | 2.5000 | 0.0025 | 2.5000 | 0.0025 | 2.5000 |  |  |
 | 零一万物 | [API Pricing](https://platform.lingyiwanwu.com/) | yi-34b-chat-200k | 200K | 0.01200 | 12.0000 | 0.0120 | 12.0000 | 0.0120 | 12.0000 |  |  |
 | MISTRAL | [API Pricing](https://mistral.ai/technology/#pricing) | open-mistral-7b |  | 0.00178 | 1.7769 | 0.0018 | 1.7769 | 0.0018 | 1.7769 | 0.2500 | 0.2500 |
